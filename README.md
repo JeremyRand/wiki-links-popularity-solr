@@ -37,6 +37,10 @@ Go to YaCy's Solr Ranking settings.  You can now use the field `wikipedia_en_hos
 
 You're done!  Your YaCy peer is now compatible with Wikipedia ranking.  You should be able to replace the `external_wikipedia_en_host` file with an updated one when new Wikipedia dumps are released without shutting down YaCy first; reboot YaCy to make the new file take effect.
 
+## Author
+
+This script was written by Jeremy Rand.
+
 ## License
 
 License is GPLv2+.
